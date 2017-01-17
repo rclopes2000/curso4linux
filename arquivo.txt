@@ -1,3 +1,8 @@
+
 testando arquivos de tag
 linha inserida atraves do github (site http://github.com)
+#  <<<<<<< HEAD
 arquivo editado pela maquina security
+=======
+segund linha adicionada pelo github - (antes tinha criado uma linha na security, commitado mas nao tinha subido)
+#   >>>>>>> 00ad1cf25c71bcb5863c4f50251e9224da542f0b
